@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PyCon 2020</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="index.html">About#about</a></li>
+      </ul>
+    </nav>
+    <main>
+      <header role="banner">
+      <h1>PyCon 2020</h1>
+    </header>
